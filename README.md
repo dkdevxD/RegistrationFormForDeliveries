@@ -1,5 +1,5 @@
 # RegistrationFormForDeliveries
-  - Cadastra um novo usuario
+  - Register
     - Email
     - Password
     - Name
@@ -14,6 +14,7 @@
 ## Just Practicing 
   - ReactJS
   - Function Components
+  - Conditional rendering
   - Validation
   - Hooks
   - Custom Hooks
