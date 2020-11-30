@@ -1,18 +1,21 @@
 # RegistrationFormForDeliveries
   - Cadastra um novo usuario
     - Email
-    - Senha
-    - Nome
-    - Sobrenome
+    - Password
+    - Name
+    - Surname
     - CPF
-    - CEP
-    - Endereço
-    - Numero
-    - Estado
-    - Cidade
+    - Zip Code
+    - Address
+    - Number
+    - State
+    - City
 
 ## Just Practicing 
   - ReactJS
   - Function Components
+  - Validation
   - Hooks
-  - Styled Components
+  - Custom Hooks
+  - Context
+  - Material UI
